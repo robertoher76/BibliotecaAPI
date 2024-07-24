@@ -47,3 +47,4 @@ C:\Users\rober\Desktop\des\Biblioteca.API\bin\Debug\net8.0\Biblioteca.Entities.d
 C:\Users\rober\Desktop\des\Biblioteca.API\bin\Debug\net8.0\Biblioteca.BL.pdb
 C:\Users\rober\Desktop\des\Biblioteca.API\bin\Debug\net8.0\Biblioteca.Entities.pdb
 C:\Users\rober\Desktop\des\Biblioteca.API\bin\Debug\net8.0\Biblioteca.DAL.pdb
+C:\Users\rober\Desktop\des\Biblioteca.API\obj\Debug\net8.0\Biblioteca.API.sourcelink.json

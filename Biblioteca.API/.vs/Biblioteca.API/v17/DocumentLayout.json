@@ -1,12 +1,117 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\rober\\Desktop\\des\\Biblioteca.API\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5C41D8-4056-4B39-8BCC-23A053ACB38C}|Biblioteca.API.csproj|c:\\users\\rober\\desktop\\des\\biblioteca.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D5C41D8-4056-4B39-8BCC-23A053ACB38C}|Biblioteca.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8A6EA0-7BFF-44B0-9BC2-8D69DF22F145}|..\\Biblioteca.Entities\\Biblioteca.Entities.csproj|c:\\users\\rober\\desktop\\des\\biblioteca.entities\\dto\\autordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8A6EA0-7BFF-44B0-9BC2-8D69DF22F145}|..\\Biblioteca.Entities\\Biblioteca.Entities.csproj|c:\\users\\rober\\desktop\\des\\biblioteca.entities\\models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD5BC05-3FDB-45B8-A898-733E04A269BF}|..\\Biblioteca.DAL\\Biblioteca.DAL.csproj|c:\\users\\rober\\desktop\\des\\biblioteca.dal\\services\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD5BC05-3FDB-45B8-A898-733E04A269BF}|..\\Biblioteca.DAL\\Biblioteca.DAL.csproj|c:\\users\\rober\\desktop\\des\\biblioteca.dal\\autorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD5BC05-3FDB-45B8-A898-733E04A269BF}|..\\Biblioteca.DAL\\Biblioteca.DAL.csproj|c:\\users\\rober\\desktop\\des\\biblioteca.dal\\databaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\Desktop\\des\\Biblioteca.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\rober\\Desktop\\des\\Biblioteca.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T20:42:21.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\Desktop\\des\\Biblioteca.Entities\\Models\\Autor.cs",
+              "RelativeDocumentMoniker": "..\\Biblioteca.Entities\\Models\\Autor.cs",
+              "ToolTip": "C:\\Users\\rober\\Desktop\\des\\Biblioteca.Entities\\Models\\Autor.cs",
+              "RelativeToolTip": "..\\Biblioteca.Entities\\Models\\Autor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T20:38:51.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutorDto.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\Desktop\\des\\Biblioteca.Entities\\DTO\\AutorDto.cs",
+              "RelativeDocumentMoniker": "..\\Biblioteca.Entities\\DTO\\AutorDto.cs",
+              "ToolTip": "C:\\Users\\rober\\Desktop\\des\\Biblioteca.Entities\\DTO\\AutorDto.cs",
+              "RelativeToolTip": "..\\Biblioteca.Entities\\DTO\\AutorDto.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAUwBMAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T20:38:46.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\Desktop\\des\\Biblioteca.DAL\\Services\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "..\\Biblioteca.DAL\\Services\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\rober\\Desktop\\des\\Biblioteca.DAL\\Services\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "..\\Biblioteca.DAL\\Services\\ServiceCollectionExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T20:38:28.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AutorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\Desktop\\des\\Biblioteca.DAL\\AutorRepository.cs",
+              "RelativeDocumentMoniker": "..\\Biblioteca.DAL\\AutorRepository.cs",
+              "ToolTip": "C:\\Users\\rober\\Desktop\\des\\Biblioteca.DAL\\AutorRepository.cs",
+              "RelativeToolTip": "..\\Biblioteca.DAL\\AutorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T20:38:08.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatabaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\Desktop\\des\\Biblioteca.DAL\\DatabaseRepository.cs",
+              "RelativeDocumentMoniker": "..\\Biblioteca.DAL\\DatabaseRepository.cs",
+              "ToolTip": "C:\\Users\\rober\\Desktop\\des\\Biblioteca.DAL\\DatabaseRepository.cs",
+              "RelativeToolTip": "..\\Biblioteca.DAL\\DatabaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T20:37:43.475Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
