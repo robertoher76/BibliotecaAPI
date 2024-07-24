@@ -1,0 +1,11 @@
+C:\Users\rober\Desktop\des\Biblioteca.Entities\bin\Debug\net8.0\Biblioteca.Entities.deps.json
+C:\Users\rober\Desktop\des\Biblioteca.Entities\bin\Debug\net8.0\Biblioteca.Entities.dll
+C:\Users\rober\Desktop\des\Biblioteca.Entities\bin\Debug\net8.0\Biblioteca.Entities.pdb
+C:\Users\rober\Desktop\des\Biblioteca.Entities\obj\Debug\net8.0\Biblioteca.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\Desktop\des\Biblioteca.Entities\obj\Debug\net8.0\Biblioteca.Entities.AssemblyInfoInputs.cache
+C:\Users\rober\Desktop\des\Biblioteca.Entities\obj\Debug\net8.0\Biblioteca.Entities.AssemblyInfo.cs
+C:\Users\rober\Desktop\des\Biblioteca.Entities\obj\Debug\net8.0\Biblioteca.Entities.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\des\Biblioteca.Entities\obj\Debug\net8.0\Biblioteca.Entities.dll
+C:\Users\rober\Desktop\des\Biblioteca.Entities\obj\Debug\net8.0\refint\Biblioteca.Entities.dll
+C:\Users\rober\Desktop\des\Biblioteca.Entities\obj\Debug\net8.0\Biblioteca.Entities.pdb
+C:\Users\rober\Desktop\des\Biblioteca.Entities\obj\Debug\net8.0\ref\Biblioteca.Entities.dll
