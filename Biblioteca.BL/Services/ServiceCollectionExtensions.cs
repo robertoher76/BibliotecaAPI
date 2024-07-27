@@ -16,6 +16,7 @@ namespace Biblioteca.BL.Services
         {
             services.AddAutoMapper(typeof(AutomapperProfile).Assembly);
             services.AddTransient<IAutorService, AutorService>();
+            services.AddTransient<IEditorialService, EditorialService>();
             services.AddRepositoryConnector();
             return services;
         }

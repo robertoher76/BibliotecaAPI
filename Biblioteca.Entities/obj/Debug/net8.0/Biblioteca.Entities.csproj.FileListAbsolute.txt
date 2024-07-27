@@ -9,3 +9,4 @@ C:\Users\rober\Desktop\des\Biblioteca.Entities\obj\Debug\net8.0\Biblioteca.Entit
 C:\Users\rober\Desktop\des\Biblioteca.Entities\obj\Debug\net8.0\refint\Biblioteca.Entities.dll
 C:\Users\rober\Desktop\des\Biblioteca.Entities\obj\Debug\net8.0\Biblioteca.Entities.pdb
 C:\Users\rober\Desktop\des\Biblioteca.Entities\obj\Debug\net8.0\ref\Biblioteca.Entities.dll
+C:\Users\rober\Desktop\des\Biblioteca.Entities\obj\Debug\net8.0\Biblioteca.Entities.sourcelink.json

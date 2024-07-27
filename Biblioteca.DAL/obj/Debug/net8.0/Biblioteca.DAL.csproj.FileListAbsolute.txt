@@ -15,3 +15,4 @@ C:\Users\rober\Desktop\des\Biblioteca.DAL\obj\Debug\net8.0\Biblioteca.DAL.dll
 C:\Users\rober\Desktop\des\Biblioteca.DAL\obj\Debug\net8.0\refint\Biblioteca.DAL.dll
 C:\Users\rober\Desktop\des\Biblioteca.DAL\obj\Debug\net8.0\Biblioteca.DAL.pdb
 C:\Users\rober\Desktop\des\Biblioteca.DAL\obj\Debug\net8.0\ref\Biblioteca.DAL.dll
+C:\Users\rober\Desktop\des\Biblioteca.DAL\obj\Debug\net8.0\Biblioteca.DAL.sourcelink.json

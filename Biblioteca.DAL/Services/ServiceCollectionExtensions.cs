@@ -14,6 +14,7 @@ namespace Biblioteca.DAL.Services
         {
             services.AddTransient<IDatabaseRepository, DatabaseRepository>();
             services.AddTransient<IAutorRepository, AutorRepository>();
+            services.AddTransient<IEditorialRepository, EditorialRepository>();
             return services;
         }
     }

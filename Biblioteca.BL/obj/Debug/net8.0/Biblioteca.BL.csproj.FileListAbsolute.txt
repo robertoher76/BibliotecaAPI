@@ -17,3 +17,4 @@ C:\Users\rober\Desktop\des\Biblioteca.BL\obj\Debug\net8.0\Biblioteca.BL.dll
 C:\Users\rober\Desktop\des\Biblioteca.BL\obj\Debug\net8.0\refint\Biblioteca.BL.dll
 C:\Users\rober\Desktop\des\Biblioteca.BL\obj\Debug\net8.0\Biblioteca.BL.pdb
 C:\Users\rober\Desktop\des\Biblioteca.BL\obj\Debug\net8.0\ref\Biblioteca.BL.dll
+C:\Users\rober\Desktop\des\Biblioteca.BL\obj\Debug\net8.0\Biblioteca.BL.sourcelink.json

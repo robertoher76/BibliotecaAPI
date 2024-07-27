@@ -9,3 +9,4 @@ C:\Users\rober\Desktop\des\Biblioteca.Common\obj\Debug\net8.0\Biblioteca.Common.
 C:\Users\rober\Desktop\des\Biblioteca.Common\obj\Debug\net8.0\refint\Biblioteca.Common.dll
 C:\Users\rober\Desktop\des\Biblioteca.Common\obj\Debug\net8.0\Biblioteca.Common.pdb
 C:\Users\rober\Desktop\des\Biblioteca.Common\obj\Debug\net8.0\ref\Biblioteca.Common.dll
+C:\Users\rober\Desktop\des\Biblioteca.Common\obj\Debug\net8.0\Biblioteca.Common.sourcelink.json
