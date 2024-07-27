@@ -23,6 +23,14 @@ namespace Biblioteca.BL.Automapper
                 .ForMember(destination => destination.Codigo, options => options.MapFrom(source => source.id))
                 .ForMember(destination => destination.NombreEditorial, options => options.MapFrom(source => source.Nombre))
                 .ReverseMap();
+
+            CreateMap<Libro, LibroDto>()
+                .ForMember(destination => destination.Codigo, options => options.MapFrom(source => source.id))
+                .ForMember(destination => destination.NombreLibro, options => options.MapFrom(source => source.Nombre))
+                .ForMember(destination => destination.CodigoAutorLibro, options => options.MapFrom(source => source.CodigoAutor))
+                .ForMember(destination => destination.CodigoEditorialLibro, options => options.MapFrom(source => source.CodigoEditorial))
+                .ForMember(destination => destination.FechaLanzamientoLibro, options => options.MapFrom(source => source.FechaDeLanzamiento))
+                .ReverseMap();
         }
     }
 }
